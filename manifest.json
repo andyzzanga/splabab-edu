@@ -1,0 +1,16 @@
+{
+  "name": "SPLABAB EDU 직원 교육",
+  "short_name": "EDU 교육",
+  "id": "/edu/",
+  "start_url": "/edu/",
+  "scope": "/edu/",
+  "display": "standalone",
+  "display_override": ["standalone"],
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#17633f",
+  "icons": [
+    { "src": "/edu/assets/labab-type-v5-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/edu/assets/labab-type-v5-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
